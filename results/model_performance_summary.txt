@@ -1,0 +1,7 @@
+Logistic Regression Accuracy: 92.4%
+Random Forest Accuracy: 92.4%
+Random Forest Recall (Fail class): 0.96
+Logistic Regression Recall (Fail class): 0.93
+Random Forest AUC: 0.95
+Cross-validation Mean Accuracy: 90.6%
+Standard Deviation: 0.022

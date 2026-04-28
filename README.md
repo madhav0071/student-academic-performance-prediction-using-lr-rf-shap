@@ -6,7 +6,7 @@ A machine learning research study focused on early identification of academicall
 
 **Authors:** Madhav · Vipul Sharma · Keshav Singla
 **Roll No:** 2210991862 · 2210992534 · 2210991786
-**Supervisor:** Gifty Gupta  
+**Supervisor:** Gifty Gupta
 **Institution:** Chitkara University Institute of Engineering and Technology, Punjab, India
 
 ---
